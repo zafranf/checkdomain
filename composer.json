@@ -1,0 +1,6 @@
+{
+    "require": {
+        "io-developer/php-whois": "^4.0",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
